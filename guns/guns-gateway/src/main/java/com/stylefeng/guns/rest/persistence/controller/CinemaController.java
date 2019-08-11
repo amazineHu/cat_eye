@@ -149,6 +149,7 @@ public class CinemaController {
                 map2.put("filmInfo", filmInfo);
                 map2.put("cinemaInfo", cinemaInfo);
                 map2.put("hallInfo", hallInfo);
+                map2.put("hallInfo2", hallInfo);
 
                 map1.put("status", 0);
                 map1.put("imgPre", "http://img.meetingshop.cn/");
