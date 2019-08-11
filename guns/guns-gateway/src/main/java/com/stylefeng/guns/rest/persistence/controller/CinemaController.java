@@ -150,7 +150,7 @@ public class CinemaController {
                 map2.put("cinemaInfo", cinemaInfo);
                 map2.put("hallInfo", hallInfo);
                 map2.put("hallInfo123", hallInfo);
-                map2.put("hallInfo567", hallInfo);
+                map2.put("hallInfo888", hallInfo);
                 map2.put("hallInfo2", hallInfo);
 
                 map1.put("status", 0);
